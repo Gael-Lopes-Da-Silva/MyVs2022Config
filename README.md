@@ -5,20 +5,20 @@
 ---
 
 <p align="center">
-    :gear: This is my Visual Studio configuration.
+    ⚙️ This is my Visual Studio configuration.
 </p>
 
 ---
 
-### :framed_picture: Screenshots
+### 🖼️ Screenshots
 ![](Screenshots/Screenshot1.png)
 ![](Screenshots/Screenshot2.png)
 ![](Screenshots/Screenshot3.png)
 
-### :page_with_curl: Font
+### 🗒️ Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
 
-### :gear: Extensions
+### ⚙️ Extensions
 - [Add Existing Projects](https://marketplace.visualstudio.com/items?itemName=RichardJMoss.AddExistingProjects)
 - [Add Multiple Projects To Solution](https://marketplace.visualstudio.com/items?itemName=MaciejGudanowicz.AddMultipleProjectsToSolution)
 - [Align Assignments](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.AlignAssignments)
@@ -52,5 +52,5 @@
 - [Warn About TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [Workspace Manager](https://marketplace.visualstudio.com/items?itemName=AndreyVeselov.WorkspaceManager)
 
-### :wrench: Settings and Keybindings
+### 🔧 Settings and Keybindings
 You can find find the settings files [here](./Settings.vssettings).
