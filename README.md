@@ -11,9 +11,9 @@
 ---
 
 ### 🖼️ Screenshots
-![](Screenshots/Screenshot1.png)
-![](Screenshots/Screenshot2.png)
-![](Screenshots/Screenshot3.png)
+![](screenshots/screenshot1.png)
+![](screenshots/screenshot2.png)
+![](screenshots/screenshot3.png)
 
 ### 🗒️ Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
@@ -53,4 +53,4 @@
 - [Workspace Manager](https://marketplace.visualstudio.com/items?itemName=AndreyVeselov.WorkspaceManager)
 
 ### 🔧 Settings and Keybindings
-You can find find the settings files [here](./Settings.vssettings).
+You can find find the settings files [here](./settings.vssettings).
